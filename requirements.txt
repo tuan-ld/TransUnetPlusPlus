@@ -2,3 +2,9 @@ tensorflow_gpu==2.5.0
 numpy==1.19.5
 Pillow==8.3.0
 tensorflow==2.5.0
+
+
+conda install -c anaconda tensorflow-gpu
+conda install -c anaconda pillow
+conda install -c anaconda numpy
+conda install -c conda-forge matplotlib
